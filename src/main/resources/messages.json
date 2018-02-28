@@ -1,0 +1,110 @@
+[
+  {
+    "content": "Hei!🤗 Wazzaap? Håpe du he hatt en like flott dag som du e, sjøl om at det kanskje ikkje e mulig(??). He du gjort nokka spenstig eller? 😊",
+    "categories": [
+      "evening",
+      "night"
+    ],
+    "isSent": true,
+    "dateValidFrom": "Jan 1, 2017 12:00:00 AM",
+    "dateValidTo": "Jan 1, 2020 12:00:00 AM"
+  },
+  {
+    "content": "I kveld skal i drømme om d! Sov veldig, veldig godt, Marie 😘",
+    "categories": [
+      "night"
+    ],
+    "isSent": false,
+    "dateValidFrom": "Jan 1, 2017 12:00:00 AM",
+    "dateValidTo": "Jan 1, 2020 12:00:00 AM"
+  },
+  {
+    "content": "Hallais! Står til? Alt e veldig bra her i Cape Town, men skulle gjerne hatt d her! 😊😊 DA ville det vært enda bedre. Savne d!😗",
+    "categories": [
+      "midday",
+      "evening"
+    ],
+    "isSent": false,
+    "dateValidFrom": "Jan 1, 2017 12:00:00 AM",
+    "dateValidTo": "Jan 1, 2020 12:00:00 AM"
+  },
+  {
+    "content": "Gooood morning, sunshine ☀️ Ha en strålende dag i dag! Hilsen kjæresten din ❤️",
+    "categories": [
+      "morning"
+    ],
+    "isSent": false,
+    "dateValidFrom": "Jan 1, 2017 12:00:00 AM",
+    "dateValidTo": "Jan 1, 2020 12:00:00 AM"
+  },
+  {
+    "content": "No kjenne i at i savne stemmen din litt altså!😗 Skulle me tatt oss en prat seinere i kveld eller? ☎️",
+    "categories": [
+      "morning",
+      "midday"
+    ],
+    "isSent": true,
+    "dateValidFrom": "Jan 1, 2017 12:00:00 AM",
+    "dateValidTo": "Jan 1, 2020 12:00:00 AM"
+  },
+  {
+    "content": "Shit, no kjenne i skikkelig på at i GLEDE me til du kjem nedover! Det blir bra å sjå d igjen! 😍",
+    "categories": [
+      "midday",
+      "evening",
+      "night"
+    ],
+    "isSent": false,
+    "dateValidFrom": "Jan 1, 2017 12:00:00 AM",
+    "dateValidTo": "Oct 30, 2017 12:00:00 AM"
+  },
+  {
+    "content": "Sov godt, Marie! 🙂 Skal drømme om d i natt!",
+    "categories": [
+      "night"
+    ],
+    "isSent": false,
+    "dateValidFrom": "Jan 1, 2017 12:00:00 AM",
+    "dateValidTo": "Jan 1, 2020 12:00:00 AM"
+  },
+  {
+    "content": "Hey, babe! Bare en liten påminnelse om at i veldig glad i d 😗 Ha en fin dag!",
+    "categories": [
+      "morning",
+      "midday"
+    ],
+    "isSent": false,
+    "dateValidFrom": "Jan 1, 2017 12:00:00 AM",
+    "dateValidTo": "Jan 1, 2020 12:00:00 AM"
+  },
+  {
+    "content": "Vært en bra dag i dag? 😊 No blir det rett til køys for min del altså. Skulle gjerne hatt d ved siden av me 🥄🥄 Sov godt 😘",
+    "categories": [
+      "night"
+    ],
+    "isSent": false,
+    "dateValidFrom": "Jan 1, 2017 12:00:00 AM",
+    "dateValidTo": "Jan 1, 2020 12:00:00 AM"
+  },
+  {
+    "content": "Åå, skal bli godt å se d til nyttår igjen altså 🎅🏼 Ooog glede me skikkelig til å stå på ski igjen - Stryn blir heftig! 😊",
+    "categories": [
+      "morning",
+      "midday",
+      "evening"
+    ],
+    "isSent": false,
+    "dateValidFrom": "Dec 1, 2017 12:00:00 AM",
+    "dateValidTo": "Dec 18, 2017 12:00:00 AM"
+  },
+  {
+    "content": "Hei, du i Norge! Kordan e 🇳🇴 for tia? Kommet ❄️ og et par ⛄️ i hagen enda eller? Skulle gjerne lagd litt ⛄️ her i 🇿🇦 altså, men e jo litt deilig med ☀️ og da!😊",
+    "categories": [
+      "midday",
+      "evening"
+    ],
+    "isSent": false,
+    "dateValidFrom": "Dec 1, 2017 12:00:00 AM",
+    "dateValidTo": "Dec 18, 2017 12:00:00 AM"
+  }
+]
