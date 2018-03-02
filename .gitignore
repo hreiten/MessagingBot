@@ -7,7 +7,7 @@
 *.o
 *.so
 *.classpath
-bin/
+
 
 # Packages #
 ############
@@ -22,11 +22,13 @@ bin/
 *.tar
 *.zip
 
+
 # Logs and databases #
 ######################
 *.log
 *.sql
 *.sqlite
+
 
 # OS generated files #
 ######################
@@ -40,6 +42,14 @@ Thumbs.db
 .metadata
 *.icloud
 
+
+# Eclipse #
+.settings/
+
+
+# Gradle
+.gradle/
+
 # Other #
 #########
 *.pdf
@@ -49,3 +59,7 @@ Thumbs.db
 *.tex
 *.pgm
 *.project
+
+
+# Specific #
+messages.json
