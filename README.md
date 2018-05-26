@@ -1,5 +1,5 @@
-# WifeMessagingBot
-A program made primarily as a joke, but it is quite cool. Will automatically send messages via iMessage to your loved one (or anyone really). You prewrite all your messages in a JSON-file (including constraints on when it can be sent), then, given a frequency of "sending messages" that you've set, a random message will be sent to the recipient every now and then. A little bit risky to use, but it actually does work (tested). 
+# MessagingBot
+Will automatically send messages via iMessage to anyone of your choosing that has iMessage. You prewrite all your messages in a JSON-file (including constraints on when it can be sent), then, given a frequency of "sending messages" that you've set, a random message will be sent to the recipient every now and then. When the message is sent, you will receive an email notification. 
 
 ### Procedure:
 1. Prewrite all your messages in ```messages.json```, including date limitations ("this message can be sent between 05.08.2017 and 25/08/2017") and what category the messages belongs to (morning, midday, evening or night).
